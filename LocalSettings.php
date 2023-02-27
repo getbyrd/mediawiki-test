@@ -128,7 +128,8 @@ $wgGroupPermissions['*']['read'] = false;
 ## names, e.g. 'vector' or 'monobook':
 $wgDefaultSkin = "vector";
 
-$wgShowExceptionDetails = true;
+# DEBUG.
+# $wgShowExceptionDetails = true;
 # End of automatically generated settings.
 # Add more configuration options below.
 wfLoadSkin( 'Vector' );
