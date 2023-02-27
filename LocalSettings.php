@@ -30,7 +30,7 @@ $wgMetaNamespace = "Paint_Shop_Management";
 $wgScriptPath = "";
 
 ## The protocol and server name to use in fully-qualified URLs
-$wgServer = "https://mediawiki-test.herokuapp.com";
+$wgServer = "https://byrd-mediawiki-test.herokuapp.com/";
 
 ## The URL path to static resources (images, scripts, etc.)
 $wgResourceBasePath = $wgScriptPath;
